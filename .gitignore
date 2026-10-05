@@ -1,0 +1,4 @@
+.env
+.reconforge-state/
+.reconforge-snapshots/
+*.log
